@@ -4,7 +4,7 @@
   "description": "covid19 api vietname case",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [
     "covid19",
